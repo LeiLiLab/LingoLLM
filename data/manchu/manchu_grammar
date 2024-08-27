@@ -1,0 +1,227 @@
+You are also given this Manchu grammar book. Feel free to rely on the grammar rules in the book in your translation.
+
+All Manchu phrases are head-final; the head-word of a phrase (e.g. the noun of a noun phrase, or the verb of a verb phrase) always falls at the end of the phrase. Thus, adjectives and adjectival phrases always precede the noun they modify, and the arguments to the verb always precede the verb. As a result, Manchu sentence structure is subject–object–verb (SOV).
+
+Manchu uses a small number of case-marking particles that are similar to those found in Korean, but there is also a separate class of true postpositions. Case markers and postpositions can be used together, as in the following sentence:
+
+> bi tere niyalma-i emgi gene-he
+> 
+> 
+> I that person-GEN with go-PST
+> 
+> I went with that person
+> 
+
+In this example, the postposition **emgi**, "with", requires its nominal argument to have the genitive case, which causes the genitive case marker **i** between the noun **niyalma** and the postposition.
+
+Manchu also makes extensive use of converb structures and has an inventory of converbial suffixes to indicate the relationship between the subordinate verb and the finite verb that follows it. An example is these two sentences, which have finite verbs:
+
+> tere sargan boo qi tuqi-ke
+> 
+> 
+> that woman house ABL go out-PST.FIN
+> 
+> That woman came out of the house
+> 
+
+> tere sargan hoton de gene-he
+> 
+> 
+> that woman town DAT go-PST.FIN
+> 
+
+Both sentences can be combined into a single sentence by using converbs, which relate the first action to the second:
+
+> tere sargan boo qi tuqi-fi, hoton de gene-he
+> 
+> 
+> that woman house ABL go out-PST.CVB, town DAT go-PST.FIN
+> 
+> That woman, having come out of the house, went to town.
+> 
+
+> tere sargan boo qi tuqi-me, hoton de gene-he
+> 
+> 
+> that woman house ABL go outp-IMPERF.CVB, town DAT go-PST.FIN
+> 
+> That woman, coming out of the house, went to town.
+> 
+
+> tere sargan boo qi tuqi-qibe, hoton de gene-he
+> 
+> 
+> that woman house ABL go out-CONC.CVB, town DAT go-PSF.FIN
+> 
+> That woman, though she came out of the house, went to town
+> 
+
+### Cases
+
+Manchu has five cases, which are marked by particles: nominative, accusative, genitive, dative-locative, and ablative. The particles can be written with the noun to which they apply or separately. They do not obey the rule of vowel harmony but are also not truly postpositions.
+
+**Manchu Pronoun Cases**
+
+|  | Nominative | Accusative | Genitive | Dative | Ablative |
+| --- | --- | --- | --- | --- | --- |
+| 1st SG | bi | mimbe | mini | minde | minqi |
+| 2nd SG | si | simbe | sini | sinde | sinqi |
+| 3rd SG | i | imbe | ini | inde | inqi |
+| 1st PL inclusive | muse | musebe | musei | musede | museqi |
+| 1st PL exclusive | be | membe | meni | mende | menqi |
+| 2nd PL | suwe | suwembe | suweni | suwende | suwenqi |
+| 3rd PL | qe | qembe | qeni | qende | qenqi |
+
+### Nominative
+
+One of the principal syntactic cases, it is used for the subject of a sentence and has no overt marking.
+
+### Accusative
+
+(*be*): one of the principal syntactic cases, it indicates participants/direct object of a sentence. Direct objects sometimes also take the nominative. It is commonly felt that the marked accusative has a definite sense, like using a definite article in English. It is written separate from the word that it follows. The accusative can be used in the following ways:
+
+- Nominative-accusative strategy – indicates opposition between syntactic roles (subject = nominative; object – accusative)
+    
+    > i boo be weile-mbi
+    > 
+    > 
+    > he house ACC build-IMPERF
+    > 
+    > "he builds a house"
+    > 
+- transitive verbs
+    
+    > fe kooli be dahame yabu-mbi
+    > 
+    > 
+    > old regulations ACC [according.to](http://according.to/) act-IMPERF
+    > 
+- Transitive verb (negative form)
+- Indicate when agent is caused to perform an action
+- Indicate motion that is happening
+
+### Genitive
+
+(*i* or *ni*): one of the principal syntactic cases, it is used to indicate possession or the means by which something is accomplished.
+
+Its primary function is to indicate the possessor of an object:
+
+> boo i ejen
+> 
+> 
+> house GEN master
+> 
+> the master of the house
+> 
+
+It can also indicate a person's relationships:
+
+> han i jui
+khan GEN child
+the khan's child
+> 
+
+Other functions of genitive are:
+
+- Attributive: nouns followed by genitive marker indicate attributives, which are also used for participles and verbs.
+- Adverb: the noun is repeated with the addition of the genitive marker (i)
+
+**Dative-locative**
+
+(*de*): indicates location, time, place, or indirect object.
+
+Its primary function is to indicate the semantic role of the recipient:
+
+> ere niyalma de bu-mbi
+> 
+> 
+> this man DAT give-IMPERF
+> 
+> "(someone) gives to this man"
+> 
+
+It also has other functions:
+
+- Agent of a passive verb
+- Indicate person who is in possession of something
+- Indicate sources of something
+- Indicate instrument of action (verbs in past tense, talking about others)
+
+### Ablative
+
+(*qi*): indicates the origin of an action or the basis for a comparison
+
+That can be the starting point in space or time:
+
+> boo-qi tuqi-ke
+House-ABL go.away-PAST
+> 
+> 
+> (Someone) went away from the house
+> 
+
+It can also be used to compare objects:
+
+> ere erin qi oyonggo ningge akv
+> 
+> 
+> this time ABL important NLMZ COP.NEG
+> 
+
+### Verbs
+
+There are 13 basic verb forms, some of which can be further modified with the verb *bi* (is), or the particles *akv, i, o,* and *ni* (negative, instrumental, and interrogatives).
+
+**Conjugation of the verb** *afa-* **(to attack)**
+
+| Form | Usual Suffix | Example |
+| --- | --- | --- |
+| imperative | ∅ | afa |
+| imperfect participle | -ra/re/ro | afara |
+| perfect participle | -ha/he/ho | afaha |
+| imperfect converb | -me | afame |
+| perfect converb | -fi | afafi |
+| conditional | -qi | afaqi |
+| concessive | -qibe | afaqibe |
+| terminal converb | -tala/tele/tolo | afatala |
+| prefatory converb | -nggala/nggele/nggolo | afanggala |
+| desiderative 1 | -ki | afaki |
+| desiderative 2 | -kini | afakini |
+| optative | -qina | afaqina |
+| temeritive | -rahv | afarahv |
+
+### Imperfect Participle
+
+The imperfect participle is formed by adding the variable suffix *-ra, -re, -ro* to the stem of the verb. *Ra* occurs when the final syllable of the stem contains an *a*. *Re* occurs when the final syllable of the stem contains *e*, *i*, *u* or *v*. *Ro* occurs with stems containing all *o*'s. An irregular suffix *-dara, -dere, -doro* is added to a limited group of irregular verbs (*jon-, wen-, ban-*) with a final *-n*. (The perfect participle of these verbs is also irregular). Three of the most common verbs in Manchu also have irregular forms for the imperfect participle:
+
+- *bi-, bisire* — 'be'
+- *o-, ojoro* — 'become'
+- *je-, jetere* — 'eat'
+
+Imperfect participles can be used as objects, attributes, and predicates. Using *ume* alongside the imperfect participle makes a negative imperative.
+
+As an attribute:
+
+> habša-ra niyalma
+> 
+> 
+> complain-IPC man
+> 
+
+When this form is used predicatively it is usually translated as a future tense in English; it often carries an indefinite or conditional overtone when used in this fashion:
+
+> bi sinde alara
+> 
+> 
+> 1sg 2sg-ACC tell-IPTC
+> 
+
+As an object:
+
+> gisure-re be han donji-fi
+> 
+> 
+> speak-IPTC ACC king hear-PCVB
+> 
+> "The king having heard what was being said"
+>

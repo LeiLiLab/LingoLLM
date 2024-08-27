@@ -1,0 +1,8 @@
+openai==1.42.0
+selenium==4.23.1
+editdistance==0.8.1
+thefuzz==0.22.1
+spacy==3.7.6
+numpy==1.26.4
+transformers==4.44.2
+torch==2.4.0

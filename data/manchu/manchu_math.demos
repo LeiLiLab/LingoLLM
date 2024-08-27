@@ -1,0 +1,21 @@
+# Example 1
+Input: ilha i niyehe inenggi dari juwan ninggun umhan bilembi. i inenggi dari erdede ilan umhan jeme inenggi dari duin umhan be baitalame ini gucude efin aramfi funcehe umhan be hūdai bade uncambi. Umhan tome juwe yuwan udaci, inenggi dari i hūdai bade butara jiha udu?  
+Translation: This question means: Janet’s ducks lay 16 eggs per day. She eats three for breakfast every morning and bakes muffins for her friends every day with four. She sells the remainder at the farmers' market daily for $2 per fresh duck egg. How much in dollars does she make every day at the farmers' market?
+Answer:
+To answer this question,
+we first compute how many eggs does Janet sell, which is 16 - 3 - 4 = 9 eggs.
+The total amount of money is 9 * 2 dollars = ### 18 ### dollars
+
+# Example 2
+Input: emu sijigiyan be arara lamun sirge boso juwe defe jai erei dulin defei šayan sirge boso be baibumbi, uheri baitalara sirge boso udu defe? 
+Translation: This question means: A robe takes 2 bolts of blue fiber and half that much white fiber. How many bolts in total does it take?
+Answer:
+A robe takes 2 / 2 bolts of white fiber.
+In total, it takes 2 + 1 = ### 3 ### bolts of fiber.
+
+# Example 3
+Input: mergen barun dari ilan mudan de ilan meyen sujume toktombi, meyen tome ninju miter sujumbi, i barun dari uheri udu miter sujumbi?
+Translation: This question means: James decides to run 3 sprints 3 times a week. He runs 60 meters each sprint. How many total meters does he run a week?	
+Answer:
+James runs 3 * 3 sprints per week.
+James run 9 * 60 meters per week.

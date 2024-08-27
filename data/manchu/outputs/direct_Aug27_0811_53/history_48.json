@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "Please help me translate the following sentence from manchu to english:\nmini hala wang\nPlease try your best to translate, it's okay if your translation is bad. Do not refuse to try it. I won't blame you.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ### Hello world ###.\n"
+  },
+  {
+    "role": "system",
+    "content": "The Manchu sentence \"mini hala wang\" can be translated to English as \"my clan name is Wang.\" Here, \"mini\" means \"my,\" \"hala\" means \"clan name,\" and \"wang\" is a proper noun, likely a surname. \n\n### My clan name is Wang ###"
+  }
+]

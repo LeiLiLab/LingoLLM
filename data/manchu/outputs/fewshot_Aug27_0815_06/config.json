@@ -1,0 +1,1 @@
+{"src_lang": "manchu", "tgt_lang": "english", "pipeline_name": "fewshot_translate", "input_fn": "data/manchu/laoqida.in", "dict_fn": "data/manchu/manchu_dict_laoqida_new.db", "gloss_fn": "data/manchu/laoqida.in", "grammar_fn": "", "iter": null, "llm": "gpt-4o-2024-08-06", "copy_prompt": null}

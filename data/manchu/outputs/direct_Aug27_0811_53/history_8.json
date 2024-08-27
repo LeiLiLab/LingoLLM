@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "Please help me translate the following sentence from manchu to english:\ntere guqu te amqame isinjimbioakvn\nPlease try your best to translate, it's okay if your translation is bad. Do not refuse to try it. I won't blame you.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ### Hello world ###.\n"
+  },
+  {
+    "role": "system",
+    "content": "The Manchu language can be quite challenging to translate due to its complex grammar and limited resources. However, I'll do my best to provide a translation based on the components of the sentence you provided.\n\nThe sentence \"tere guqu te amqame isinjimbioakvn\" can be broken down as follows:\n- \"tere\" often means \"that\" or \"those.\"\n- \"guqu\" could refer to \"people\" or \"group.\"\n- \"te\" is a particle that can indicate a locative or instrumental case, often translated as \"in\" or \"with.\"\n- \"amqame\" is related to the verb \"amqambi,\" which means \"to be happy\" or \"to rejoice.\"\n- \"isinjimbioakvn\" is a more complex form, possibly related to \"isinjimbi,\" which means \"to speak\" or \"to say.\"\n\nBased on this analysis, a rough translation might be:\n\n### Those people are happily speaking. ###\n\nPlease note that this translation is an approximation and may not capture all nuances of the original Manchu sentence."
+  }
+]

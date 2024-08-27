@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "Please help me translate the following sentence from manchu to english:\nmorin dobori orho be jeterakv oqi tarhvrakv\nPlease try your best to translate, it's okay if your translation is bad. Do not refuse to try it. I won't blame you.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ### Hello world ###.\n"
+  },
+  {
+    "role": "system",
+    "content": "Manchu is a Tungusic language, and its translation can be quite challenging due to its unique structure and vocabulary. However, based on the sentence you provided:\n\n- \"morin\" typically means \"horse.\"\n- \"dobori\" can mean \"fast\" or \"quickly.\"\n- \"orho\" could be related to \"run\" or \"move.\"\n- \"jeterakv\" suggests \"without\" or \"not.\"\n- \"oqi\" is often used as a conjunction, like \"if\" or \"when.\"\n- \"tarhvrakv\" might imply \"not tired\" or \"without tiring.\"\n\nGiven these interpretations, a rough translation could be:\n\n### If the horse does not run fast, it will not tire. ###\n\nPlease note that this is a tentative translation and might not capture all nuances of the original Manchu sentence."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "Please help me translate the following sentence from manchu to english:\nsi atanggi wangging qi juraka\nPlease try your best to translate, it's okay if your translation is bad. Do not refuse to try it. I won't blame you.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ### Hello world ###.\n"
+  },
+  {
+    "role": "system",
+    "content": "Translating from Manchu can be challenging due to its limited contemporary usage and resources. However, I'll do my best to provide a translation for the sentence \"si atanggi wangging qi juraka.\"\n\n### \"After you, the world is different.\" ###\n\nPlease note that this translation is an attempt based on the structure and known vocabulary of the Manchu language."
+  }
+]

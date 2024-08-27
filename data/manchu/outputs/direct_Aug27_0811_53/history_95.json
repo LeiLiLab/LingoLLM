@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "Please help me translate the following sentence from manchu to english:\nandase sain dedu\nPlease try your best to translate, it's okay if your translation is bad. Do not refuse to try it. I won't blame you.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ### Hello world ###.\n"
+  },
+  {
+    "role": "system",
+    "content": "The Manchu language can be quite challenging to translate directly due to its unique structure and limited resources. However, I will do my best to provide a translation based on the available knowledge.\n\nThe phrase \"andase sain dedu\" can be broken down as follows:\n- \"andase\" could be related to \"anda,\" which means \"friend\" or \"comrade.\"\n- \"sain\" generally means \"good\" or \"well.\"\n- \"dedu\" might be a form of the verb \"to say\" or \"to speak.\"\n\nGiven these interpretations, a possible translation of \"andase sain dedu\" could be:\n\n### Speak well, friend ###\n\nPlease note that this is a rough translation and might not capture the full nuance of the original Manchu text."
+  }
+]
