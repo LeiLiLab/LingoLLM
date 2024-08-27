@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "Please help me translate the following sentence from manchu to english:\ninenggidari nikan i xusai emgi emu bade tefi bithe taqiha turgunde majige bahanambi\nPlease try your best to translate, it's okay if your translation is bad. Do not refuse to try it. I won't blame you.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ### Hello world ###.\n"
+  },
+  {
+    "role": "system",
+    "content": "Translating from Manchu can be challenging due to its complex structure and limited resources, but I'll do my best to provide a translation for you.\n\nThe sentence \"inenggidari nikan i xusai emgi emu bade tefi bithe taqiha turgunde majige bahanambi\" can be broken down as follows:\n\n- \"inenggidari\" means \"the next day\" or \"the following day.\"\n- \"nikan i\" refers to \"Chinese\" or \"of the Chinese.\"\n- \"xusai\" means \"letter\" or \"document.\"\n- \"emgi\" means \"one\" or \"a.\"\n- \"emu bade\" means \"in one place\" or \"at one location.\"\n- \"tefi\" means \"to arrive\" or \"having arrived.\"\n- \"bithe\" means \"letter\" or \"document.\"\n- \"taqiha\" means \"to write\" or \"written.\"\n- \"turgunde\" means \"at that time\" or \"then.\"\n- \"majige\" means \"a little\" or \"slightly.\"\n- \"bahanambi\" means \"to be surprised\" or \"to be amazed.\"\n\nPutting these elements together, a rough translation could be:\n\n### The next day, having arrived at one place, a Chinese letter was written, and then they were slightly surprised. ###\n\nPlease note that this translation may not be perfect due to the complexity of the language and the context, but I hope it captures the general meaning of the sentence."
+  }
+]

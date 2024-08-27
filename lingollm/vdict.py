@@ -90,6 +90,8 @@ class Manchu_VDict(VDict):
     def match(self, key):
         if key[0].isupper():
             return "{key} is a person's given name: {key}", key
+        if key == "wangging":
+            return "the capital of Korea", key
         if key == "diyanhvwa":
             return "noun. phone, telephone", key
         if key == "fi":

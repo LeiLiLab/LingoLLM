@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "\nHere are some examples of manchu sentences and their corresponding english translations:\nManchu: julge i ming gurun i forgon de emu lolo seme gaxan bihe\nEnglish: Long ago, in the Ming dynasty, there was a village called Lolo\nManchu: Budai faksi be buda arabume werifi sargudai fiyanggo geren ahasi sabe gaime ahalji bahalji sade afabume aba saraki alin xurdeme abalaki sefi\nEnglish: Sergudai Fiyanggo left the cook preparing meal, and took all the servants with him and ordered Ahalji and Bahalji, \u201cLet\u2019s spread out the battue line around the mountain and hunt.\u201d\nManchu: giran be gaime jurarengge oyonggo\nEnglish: Now it is important to bring his corpse home\n\nPlease help me translate the following sentence from manchu to english:\ntuttu oqi umesi sain\n\nYou are also given the word by word mapping from the manchu words to the english words.\nFor words that have partial match definitions, please decide whether the definition is appropriate under the sentence context.\nNote that for some words, there might be multiple possible translations. In this case, please choose the most appropriate one.\nNote that for some words, they might be derived from a more basic form, we call this the parent word. The parents are also given in the word by word translation.\nHere is the dictionary entry for each individual word in the source sentence:\n\ntuttu oqi: tuttu oqi - if like that, if so, in that case; parent: tuttulike that, thus, so\n### umesi\nvery, to a high degree\n### sain\n1. good, well 2. auspicious, favorable\n\n\nPlease first explain what each word means in english and then translate.\nRemember your source sentence is:\ntuttu oqi umesi sain.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ###Hello world###."
+  },
+  {
+    "role": "system",
+    "content": "Let's break down the Manchu sentence \"tuttu oqi umesi sain\" word by word using the provided dictionary entries:\n\n1. **tuttu oqi**: This phrase translates to \"if like that,\" \"if so,\" or \"in that case.\" It indicates a conditional or situational context, suggesting that something is contingent upon a previous statement or condition.\n\n2. **umesi**: This word means \"very\" or \"to a high degree.\" It is used to intensify or emphasize the adjective or adverb it modifies.\n\n3. **sain**: This word has multiple meanings: \"good,\" \"well,\" \"auspicious,\" or \"favorable.\" In this context, it is likely used to describe something positively, given the intensifier \"umesi.\"\n\nNow, putting these meanings together, the sentence \"tuttu oqi umesi sain\" can be translated into English as:\n\n###In that case, very good.###"
+  }
+]

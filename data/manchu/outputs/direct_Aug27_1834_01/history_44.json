@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "Please help me translate the following sentence from manchu to english:\nbi qoohiyan i niyalma nikan i bade feliyeme urehe akv\nPlease try your best to translate, it's okay if your translation is bad. Do not refuse to try it. I won't blame you.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ### Hello world ###.\n"
+  },
+  {
+    "role": "system",
+    "content": "Sure, I can help with that. The sentence \"bi qoohiyan i niyalma nikan i bade feliyeme urehe akv\" can be translated to English as:\n\n### I, a Manchu person, have never been to the Han Chinese area. ###"
+  }
+]

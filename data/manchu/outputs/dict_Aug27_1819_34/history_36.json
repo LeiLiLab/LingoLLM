@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "\nHere are some examples of manchu sentences and their corresponding english translations:\nManchu: julge i ming gurun i forgon de emu lolo seme gaxan bihe\nEnglish: Long ago, in the Ming dynasty, there was a village called Lolo\nManchu: Budai faksi be buda arabume werifi sargudai fiyanggo geren ahasi sabe gaime ahalji bahalji sade afabume aba saraki alin xurdeme abalaki sefi\nEnglish: Sergudai Fiyanggo left the cook preparing meal, and took all the servants with him and ordered Ahalji and Bahalji, \u201cLet\u2019s spread out the battue line around the mountain and hunt.\u201d\nManchu: giran be gaime jurarengge oyonggo\nEnglish: Now it is important to bring his corpse home\n\nPlease help me translate the following sentence from manchu to english:\ngvsin sunja se ohot\n\nYou are also given the word by word mapping from the manchu words to the english words.\nFor words that have partial match definitions, please decide whether the definition is appropriate under the sentence context.\nNote that for some words, there might be multiple possible translations. In this case, please choose the most appropriate one.\nNote that for some words, they might be derived from a more basic form, we call this the parent word. The parents are also given in the word by word translation.\nHere is the dictionary entry for each individual word in the source sentence:\n\n### gvsin\nthirty\n### sunja\nfive\n### se\n1. year (said of age), age 2. raw silk, unprocessed silk 3. the juncture of the stem and root on the ginseng plant 4. (plural suffix); cf. sa 5. se%20selaha\" tabindex=\"-1\">se selaha\n### ohot\nmole, an animal of the Talpidae family\n\n\nPlease first explain what each word means in english and then translate.\nRemember your source sentence is:\ngvsin sunja se ohot.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ###Hello world###."
+  },
+  {
+    "role": "system",
+    "content": "Let's break down the Manchu sentence \"gvsin sunja se ohot\" word by word using the provided dictionary:\n\n1. **gvsin**: This word translates to \"thirty\" in English.\n2. **sunja**: This word translates to \"five\" in English.\n3. **se**: This word has multiple possible translations. Given the context of the sentence, which seems to be numerical, the most appropriate translation is \"year (said of age), age.\" This suggests that the sentence is likely referring to an age.\n4. **ohot**: This word translates to \"mole,\" which is an animal of the Talpidae family.\n\nPutting it all together, the sentence \"gvsin sunja se ohot\" translates to \"thirty-five-year-old mole\" in English. The sentence seems to describe the age of a mole.\n\n###Thirty-five-year-old mole###"
+  }
+]

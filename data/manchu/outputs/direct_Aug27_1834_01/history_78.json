@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "Please help me translate the following sentence from manchu to english:\nwang hala amba age jiheo\nPlease try your best to translate, it's okay if your translation is bad. Do not refuse to try it. I won't blame you.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ### Hello world ###.\n"
+  },
+  {
+    "role": "system",
+    "content": "Manchu is a Tungusic language, and while resources for it are limited, I can attempt a translation based on the elements of the sentence you provided:\n\n- \"wang\" could refer to a surname or a title, often meaning \"king\" or \"prince.\"\n- \"hala\" means \"clan\" or \"family name.\"\n- \"amba\" means \"great\" or \"large.\"\n- \"age\" could be related to \"elder brother\" or \"elder.\"\n- \"jiheo\" is less clear, but it might relate to a verb or action.\n\nPutting these elements together, a rough translation might be:\n\n### The great elder of the Wang clan ###\n\nPlease note that this is an attempt based on available knowledge and may not be entirely accurate."
+  }
+]

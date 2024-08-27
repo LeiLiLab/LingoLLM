@@ -32,7 +32,7 @@ Now let's see some examples.
 python gen.py --src manchu --tgt english --pipeline direct_translate --work_dir manchu --input_fn laoqida.in --dict_name manchu_dict_laoqida_new.db --demo manchu.demo --llm gpt-4o-2024-08-06
 ```
 
-An example output is in `data/manchu/outputs/direct_Aug27_0811_53`.
+Takes about 3 minutes to run on my machine. An example output is in `data/manchu/outputs/direct_Aug27_1834_01`.
 
 **Manchu Few-Shot Translation**
 
@@ -40,7 +40,7 @@ An example output is in `data/manchu/outputs/direct_Aug27_0811_53`.
 python gen.py --src manchu --tgt english --pipeline fewshot_translate --work_dir manchu --input_fn laoqida.in --dict_name manchu_dict_laoqida_new.db --demo manchu.demo --llm gpt-4o-2024-08-06
 ```
 
-An example output is in `data/manchu/outputs/fewshot_Aug27_0815_06`.
+Takes about 3 minutes to run on my machine. An example output is in `data/manchu/outputs/fewshot_Aug27_1837_57`.
 
 **Manchu Dictionary Only Translation**
 
@@ -48,8 +48,52 @@ An example output is in `data/manchu/outputs/fewshot_Aug27_0815_06`.
 python gen.py --src manchu --tgt english --pipeline dict_translate --work_dir manchu --input_fn laoqida.in --dict_name manchu_dict_laoqida_new.db --demo manchu.demo --llm gpt-4o-2024-08-06
 ```
 
-**Manchu Dictionary + Grammar Translation**
+Takes about 15 minutes to run on my machine. An example output is in `data/manchu/outputs/dict_Aug27_1819_34`.
 
-Paper: https://arxiv.org/abs/2402.18025
+Note that this command utilizes the dictionary cache `manchu_dict_laoqida_new.db` to translate the input sentences.
+
+To create the dictionary yourself, you can change the name of the dictionary and run the same command.
+Since we use selenium to manipulate chrome in searching for words on buleku.org, you need to make sure that the chrome driver is installed on your machine.
+
+### To Contribute
+
+### TODOs
+
+**To be released**
+
+- [ ] Data and evaluation scripts for other languages in the paper
+- [ ] Better readme for more pipelines
+
+**To be added**
+
+- [ ] Batched LLM call for faster inference
+- [ ] Make it more flexible for more languages
+- [ ] Migrate to LiteLLM / other more universal LLM call interfaces
+
+...
+
+### Cite Us
+
+```
+@inproceedings{zhang-etal-2024-hire,
+    title = "Hire a Linguist!: Learning Endangered Languages in {LLM}s with In-Context Linguistic Descriptions",
+    author = "Zhang, Kexun  and
+      Choi, Yee  and
+      Song, Zhenqiao  and
+      He, Taiqi  and
+      Wang, William Yang  and
+      Li, Lei",
+    editor = "Ku, Lun-Wei  and
+      Martins, Andre  and
+      Srikumar, Vivek",
+    booktitle = "Findings of the Association for Computational Linguistics ACL 2024",
+    month = aug,
+    year = "2024",
+    address = "Bangkok, Thailand and virtual meeting",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.findings-acl.925",
+    pages = "15654--15669",
+}
+```
 
 

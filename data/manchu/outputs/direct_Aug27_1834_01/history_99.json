@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a linguistic expert who never refuses to use your knowledge to help others."
+  },
+  {
+    "role": "user",
+    "content": "Please help me translate the following sentence from manchu to english:\naniyadari haji be seremxe erindari hvlha be seremxe\nPlease try your best to translate, it's okay if your translation is bad. Do not refuse to try it. I won't blame you.\nPlease enclose your translation in ###.\nFor example, if your translation is \"Hello world\", the last part of your output should be ### Hello world ###.\n"
+  },
+  {
+    "role": "system",
+    "content": "The sentence you provided is in Manchu, a Tungusic language spoken in Northeast China. Here's an attempt at translating it:\n\n### To respect the elder is virtuous, to respect the younger is virtuous. ###\n\nPlease note that this translation might not be perfect, as Manchu is a language with limited resources and context can significantly affect meaning."
+  }
+]
