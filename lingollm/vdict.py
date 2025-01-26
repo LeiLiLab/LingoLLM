@@ -65,7 +65,8 @@ class Manchu_VDict(VDict):
         time.sleep(self.wait_time)
         
         word_form = self.driver.find_element(By.XPATH, '//*[@id="root"]/div/header/div/div/div/div/h6').text
-        if not key.startswith(word_form) and not word_form.startswith(key):
+        #if not key.startswith(word_form) and not word_form.startswith(key):
+        if not key.lower().startswith(word_form.lower()) and not word_form.lower().startswith(key.lower()):
             return None
         
         first_result = self.driver.find_element(By.XPATH, '//*[@id="root"]/div/div[1]/div/div/div/div[1]/div/div/ul/li[1]/div')
